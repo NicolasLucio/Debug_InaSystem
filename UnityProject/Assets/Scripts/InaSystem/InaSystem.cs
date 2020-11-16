@@ -3,7 +3,8 @@ using UnityEngine;
 
 /*
 //========================
-
+	“Ina System” foi criado para corresponder com uma matéria da faculdade, junto com o jogo estipulado pela matéria de projeto final.
+    Mais informações em seu respectivo Git.
 */
 
 public class InaSystem : MonoBehaviour
