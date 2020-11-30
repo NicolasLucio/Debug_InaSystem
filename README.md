@@ -10,6 +10,10 @@ You can find the build in [Releases](https://github.com/NicolasLucio/Debug_InaSy
 
 [Documentation File](Docs/InaDoc.pdf)
 
+[Link for the Game](https://ksaa.itch.io/mind-scramble)
+
+[Link for Ina in WebGL](https://ksaa.itch.io/debug-inasystem)
+
 ![Example](Docs/InaPrint_01.jpg)
 
 ## Unity
