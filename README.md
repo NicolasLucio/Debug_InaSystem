@@ -1,5 +1,6 @@
 # Debug_InaSystem
 Esse é um debug de exemplo de uma implementação de IA para um jogo educacional.
+
 This is a debug example of a simple IA implementation in a educational game.
 
 ## Infos 
