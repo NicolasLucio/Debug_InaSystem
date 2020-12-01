@@ -47,3 +47,9 @@ Esse git serve apenas para visualização de sua utilização, e não para a sua
 The system name and your icon was based on Ninomae Ina'nis characters, of HololiveEN, none of this assets (name and icon) was utilized for monetary reasons. 
 All rights reserved.
 This git serve only for visualization of the system utility, not for you final aplication.
+
+
+## Colaboradores / Collaborators
+[CielCake](https://github.com/CielCake)
+
+[jpcantador](https://github.com/jpcantador)
